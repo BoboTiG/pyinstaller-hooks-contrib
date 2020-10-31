@@ -1,0 +1,1 @@
+Introduced pytest markers to control OS filtering (``pytest.mark.darwin``, ``pytest.mark.linux`` and ``pytest.mark.win32``).
